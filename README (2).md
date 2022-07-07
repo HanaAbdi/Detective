@@ -7,7 +7,8 @@ In this challenge you will be playing the roll of the best detective in the coun
 
 2) In the command line interface navigate to Desktop folder 
 
-    ( you don't know how to do that? It is okay, just coppy and past this into your terminal <span style="color:red">**cd Desktop**</span> to the terminal and hit <span style="color:yellow">**Enter**</span> )
+    ( you don't know how to do that? It is okay, just copy and paste this into your terminal <span style="color:red">**cd Desktop**</span> and hit <span style="color:yellow">**Enter**</span> )
+    
 3) Clone the project repository using this command <span style="color:red">**git clone https://gist.github.com/bddc154f475c566e0263e0c2ffde7bc5.git detective**</span>
 
 4) Now navigate to detective folder 
