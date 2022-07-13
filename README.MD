@@ -9,7 +9,7 @@ In this challenge you will be playing the roll of the best detective in the coun
 
     ( you don't know how to do that? It is okay, just copy and paste this into your terminal ```cd Desktop``` and hit **```Enter```** )
     
-3) Clone the project repository using this command ```git clone https://github.com/HanaAbdi/Detective.git```**
+3) Clone the project repository using this command ```git clone https://github.com/HanaAbdi/Detective.git```
 
 4) Now navigate to detective folder 
 
