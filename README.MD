@@ -11,6 +11,6 @@ In this challenge you will be playing the roll of the best detective in the coun
     
 3) Clone the project repository using this command ```git clone https://github.com/HanaAbdi/Detective.git```
 
-4) Now navigate to detective folder 
+4) Now navigate to Detective folder using ```cd``` command
 
 5) Display the instructions file using this command ```cat instructions```, Now you are good to go.
